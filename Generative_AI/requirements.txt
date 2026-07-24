@@ -8,3 +8,6 @@ langchain-google-genai
 ipykernel
 langchain-tavily
 pypdf
+selenium
+beautifulsoup4
+webdriver-manager
